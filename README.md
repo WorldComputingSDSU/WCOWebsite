@@ -1,4 +1,4 @@
-# WCOWebsite
+# WCOWebsite - A website to display the achievements and future of The World Computing Organization
 📌 World Computing Organization - Official Website
 
 Welcome to the official repository for the World Computing Organization (WCO) website. This platform serves as the central hub for our club’s initiatives, including events, projects, sponsorships, and member-exclusive resources.

@@ -5,7 +5,7 @@ import type * as T from "react-router/route-module"
 
 
 
-type Module = typeof import("../root.js")
+type Module = typeof import("../../root") // Adjusted path to match the correct location
 
 export type Info = {
   parents: [],
